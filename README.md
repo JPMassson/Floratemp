@@ -1,0 +1,1 @@
+To run the program you will need to run a localhost server using express JS. Ensure you have the dependencies installed and then run the command "node server.js" in the working directory to initalise the UI and leaflet data visualisation map. By default the localhost will run on port 3000 which can be accessed in a browser at localhost:3000
